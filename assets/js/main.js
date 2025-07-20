@@ -4,6 +4,21 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+function toggleStory() {
+	const story = document.getElementById('full-story');
+
+	if (story.style.display === 'none' || story.style.display === '') {
+		story.style.display = 'block';
+
+		// Delay scroll to ensure it's rendered
+		setTimeout(() => {
+			story.scrollIntoView({ behavior: 'smooth' });
+		}, 100); // 100ms delay
+	} else {
+		story.style.display = 'none';
+	}
+}
+
 (function($) {
 
 	var	$window = $(window),
