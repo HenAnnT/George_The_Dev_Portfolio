@@ -1,4 +1,16 @@
-# George Mahinda - Personal Portfolio Website
+<!-- Animated Intro SVG -->
+![Intro](./images/intro.svg)
+
+<!-- Optional waving hand gif greeting -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George Mahinda
+======================================================================================================================================
+
+Software Developer
+------------------
+
+Ambitious Software Developer | Innovator | Problem Solver | Open Source Enthusiast
+
+---
 
 Welcome to my **personal portfolio website** built using **HTML and CSS only**.  
 This project showcases my **skills, background, certifications, projects, and interests** while providing a way for collaborators or employers to reach me through a **contact form**.
