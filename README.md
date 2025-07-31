@@ -1,4 +1,4 @@
-<!-- Animated Intro SVG -->
+<!-- My Animated Intro SVG -->
 ![Intro](./images/intro.svg)
 
 <!-- Optional waving hand gif greeting -->
