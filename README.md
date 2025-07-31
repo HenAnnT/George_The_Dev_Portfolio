@@ -1,37 +1,139 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George Mahinda
-======================================================================================================================================
+# George Mahinda - Personal Portfolio Website
 
-Software Developer
-------------------
+Welcome to my **personal portfolio website** built using **HTML and CSS only**.  
+This project showcases my **skills, background, certifications, projects, and interests** while providing a way for collaborators or employers to reach me through a **contact form**.
 
-Ambitious Software Developer | Innovator | Problem Solver
+🌐 **Live Demo:** [George Mahinda Portfolio](https://henannt.github.io/GeorgeMahindaPortfolio/)  
+📄 **Download CV:** [George Mahinda Resume](assets/docs/George%20Mahinda%20Resume.pdf)
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [georgemahindagathinji@gmail.com](mailto:georgemahindagathinji@gmail.com)
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on Software Developments including Mobile Apps
-* ⚡  I'm a Born Again Believer!!
+---
 
-### Skills
+## 📋 Project Overview
+
+This portfolio is designed to present my **professional profile and technical expertise** in a clean, responsive, and user-friendly layout.
+
+It includes:
+
+1. **About Me:**  
+   A brief introduction highlighting my background, experience, and passion for software development.
+
+2. **Skills:**  
+   A bold and visually clear list of technical skills:
+    - PHP & Laravel
+    - Python
+    - JavaScript / Vue / React
+    - HTML / CSS / Tailwind
+    - MySQL & MongoDB
+    - Git & GitHub
+
+3. **Certifications:**  
+   Official recognitions of my technical competence:
+    - Programming Certificate – IYF (April 2025)
+    - Laravel Web Development – Bootcamp
+    - IT Certificate – PLP Africa
+    - Database Fundamentals – MySQL & MongoDB
+
+4. **Interests:**  
+   Areas that drive my passion for technology and continuous learning:
+    - Web Development
+    - Open Source Contributions
+    - UI/UX Design
+    - Tech Blogging
+    - Problem Solving (Coding Challenges)
+
+5. **Projects:**  
+   Real-world projects demonstrating my practical skills:
+    - **School Website – Bidii Academy**: Responsive Laravel & Bootstrap site with announcements and gallery.
+    - **Chadel Restaurant Hotel System**: Custom order tracking and billing system.
+    - **HenAnn’s POS System**: Local + cloud-ready POS built with Laravel Jetstream and Electron.
+
+6. **Education & CV Download:**
+    - Educational background section with a **downloadable resume**.
+
+7. **Contact Form:**
+    - Enables users to send messages via a simple form.
+    - Includes email, phone, and social media links.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Languages:** HTML5, CSS3
+- **Icons & Styling:** Font Awesome, Custom CSS
+- **Deployment:** GitHub Pages
+- **Design Goals:** Responsive, professional, and easy to navigate
+
+---
+
+## 🎨 Features & Highlights
+
+- Fully **responsive design** for desktop and mobile.
+- Clean **semantic HTML structure** with accessibility in mind.
+- Sections for **skills, certifications, interests, projects, and education**.
+- **Downloadable CV** and **contact form** to reach potential collaborators.
+- **Social media integration**: WhatsApp, Twitter, Facebook, Instagram, and GitHub.
+
+---
+
+## 📂 Project Structure
+
+├── index.html # Main portfolio page
+├── assets/
+│ ├── css/
+│ │ ├── main.css # Main styling
+│ │ └── noscript.css # Fallback for no-JS browsers
+│ ├── docs/
+│ │ └── George Mahinda Resume.pdf
+│ └── images/
+│ ├── TheDev.jpg
+│ ├── BidiiAcademy.png
+│ ├── Hotel.jpeg
+│ └── HenAnn's POS.png
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+---
 
+## 🚀 Deployment
 
-### Socials
+The portfolio is live via **GitHub Pages**:
 
-<p align="left"> <a href="https://www.facebook.com/Henan.Tychicus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HenAnnT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/george-mahinda-085ab623b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+1. Push your project to a **GitHub repository**.
+2. Go to **Repository → Settings → Pages**.
+3. Select the `main` branch and `/ (root)` folder.
+4. Your site will be available at:  
+   `https://<username>.github.io/<repository>/`
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📈 Evaluation Criteria Mapping
 
-<a href="http://www.github.com/HenAnnT"><img src="https://github-readme-stats.vercel.app/api?username=HenAnnT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HenAnnT's GitHub stats" /></a>
+- **Creativity and Ingenuity (20%)**
+    - Unique, clean layout with interactive project cards.
 
-<a href="http://www.github.com/HenAnnT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HenAnnT&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- **Code Quality (20%)**
+    - Semantic HTML and well-organized CSS.
 
-<a href="http://www.github.com/HenAnnT"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HenAnnT&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Documentation (15%)**
+    - This README.md explains features, structure, and deployment.
 
-<a href="https://github.com/HenAnnT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenAnnT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **Deployment (15%)**
+    - Hosted successfully on **GitHub Pages**.
+
+- **Development Process (15%)**
+    - Modular sections for maintainability.
+
+- **Technology Stack (15%)**
+    - HTML and CSS with responsive design, no extra frameworks used.
+
+---
+
+## 📬 Contact
+
+- **Portfolio:** [George Mahinda Portfolio](https://henannt.github.io/GeorgeMahindaPortfolio/)
+- **Email:** henanntech@gmail.com
+- **Phone:** (+254) 706 558 747
+- **Socials:** WhatsApp | Twitter | Facebook | Instagram | GitHub
+
+---
+
+© 2025 George Mahinda. All rights reserved.
