@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Introduction">
+  <style>
+    .base {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 16px;
+      fill: #0d1117;
+      white-space: pre-wrap;
+    }
+    .highlight { font-weight: 600; }
+  </style>
+
+  <!-- Variant: Software Developer -->
+  <text x="0" y="30" class="base" opacity="1">
+    <tspan font-size="20" class="highlight">Hi, I’m George Mahinda,</tspan>
+    <tspan x="0" dy="25">a passionate and results-driven <tspan class="highlight">Software Developer</tspan> with strong experience in PHP, Python, Laravel, MySQL, MongoDB, React, among many more.</tspan>
+    <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+
+  <!-- Variant: Full-stack Developer -->
+  <text x="0" y="30" class="base" opacity="0">
+    <tspan font-size="20" class="highlight">Hi, I’m George Mahinda,</tspan>
+    <tspan x="0" dy="25">a passionate and results-driven <tspan class="highlight">Full-stack Developer</tspan> with strong experience in PHP, Python, Laravel, MySQL, MongoDB, React, among many more.</tspan>
+    <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+
+  <!-- Variant: Problem Solver -->
+  <text x="0" y="30" class="base" opacity="0">
+    <tspan font-size="20" class="highlight">Hi, I’m George Mahinda,</tspan>
+    <tspan x="0" dy="25">a passionate and results-driven <tspan class="highlight">Problem Solver</tspan> with strong experience in PHP, Python, Laravel, MySQL, MongoDB, React, among many more.</tspan>
+    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+
+  <!-- Variant: Open Source Enthusiast -->
+  <text x="0" y="30" class="base" opacity="0">
+    <tspan font-size="20" class="highlight">Hi, I’m George Mahinda,</tspan>
+    <tspan x="0" dy="25">a passionate and results-driven <tspan class="highlight">Open Source Enthusiast</tspan> with strong experience in PHP, Python, Laravel, MySQL, MongoDB, React, among many more.</tspan>
+    <animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite"></animate>
+  </text>
+</svg>
